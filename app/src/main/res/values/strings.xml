@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exam Devinette</string>
+    <string name="title">Devinette</string>
+    <string name="saisie">Enter your name</string>
+    <string name="btn1">Play</string>
+    <string name="def">Game Devinette Definition </string>
+    <string name="textview">Choose one </string>
+    <string name="btnfacile">Easy</string>
+    <string name="btndiff">Difficult </string>
+    <string name="btn">START </string>
+    <string name="edttxt">Enter your choice </string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="edtxdif">Choose number between 100 et 900</string>
+    <string name="edtxfacile">Choose number between 10 et 90</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
